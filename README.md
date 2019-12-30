@@ -76,6 +76,7 @@ Download | Dev / Port by
 [Simple Menu](https://github.com/fgl82/simplemenu/releases/latest) | [fgl82](https://github.com/fgl82/simplemenu)
 [Calculator for BittBoy](https://github.com/szymor/bittboy-calc/releases/latest) | [szymor](https://github.com/szymor/bittboy-calc)
 [I/O Tester](https://www.dropbox.com/s/g4beydsz5yc9r1f/iotester-bittboy.zip?dl=1) | [pingflood](https://github.com/pingflood/iotester)
+[UnRAR](https://github.com/BaiGeorgi/bittboy-unrar/releases) | [BaiGeorgi](https://github.com/BaiGeorgi)
 
 # Beta Testing
 
